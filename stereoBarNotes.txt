@@ -1,0 +1,94 @@
+THE ULTIMATE STEREO BAR PROJECT
+===============================
+
+• This project started off as a desire to make a Jecklin Disc baffle, something that I had been meaning to do for a long time. 
+I realised that I also wouldn't mind replacing my existing stereo bars with something that offers more flexibility in terms of
+stereo technique placement. Currently I use two of the K&M bars to do my placements, however this is something that does limit
+my capabilities.
+	
+	• The K&M bars are small. This means if spaced omnis with anything over a 26cm distance are desired, two mic stands must
+	be used. This wastes a mic stand, and introduces clutter to the workspace.
+
+	• Setting microphone pairs that require a specific angle is taxing. A protractor must be used. These spacings would be
+ 	most useful, clearly marked out on the equipiment, other configurations be readily accessible. These marked spacings are 
+	available on current bars, but these are at the higher end of the price scale.
+
+	
+• Central Mounting Piece
+
+	• The entire system should be designed around a central mounting piece, that combines many features.
+
+	• The piece must be fashioned from a single piece of material. Ease of construction and reproduction. Lower cost.
+
+	• The piece should be designed so that it is capable of being 3D printed, without the need for further machining, for
+	example drilling of holes or routing of channels.
+
+	• The piece should offer both horizontal and vertical alignments. In a vertical position, the system will
+	allow the setup of Blumlein pairs with ease.
+
+	• The central piece should be designed, so that a baffle disc be allowed to slot on with ease and stability for the
+	purposes of binaural techniques.
+
+	• The central piece should be designed with recesses, so that standard, off-the-shelf thread adapters may be used,
+	thus reducing cost and need for special component construction. Two standard ⅝ thread adapters will be required.
+
+	• The central piece should possess a single thread recess, so that it may be securely fastened to the bar passing
+	through it.
+
+
+• Microphone Mounting Pieces
+
+	• Microphone mounting pieces should also be 3D printed with the ability to adjust the thread from underneath.
+
+	• A method should be devised, so that angular markers are available on each microphone mount (inverted to reflect left
+	and right placement) so that traditional stereo mounting techniques may be honoured.
+
+
+
+• Baffle Disc
+
+	• The baffle disc is to be optionally attached to the central mounting piece.
+
+	• 8mm ply (or acrylic) central disc, 330mm Ø
+	
+	• 2 x 3mm × 330mmØ cork discs
+
+	• 2 x 1" × 330mmØ acoustic foam discs
+
+	• 2 x 3D printed mounting pieces, capable of mounting flush with the central mounting piece.
+
+	• (Optional) thick black curtain fabric, for covering the foam (mainly aesthetic, also would provide extra absorption)
+
+	• If the option to extend functionality to a Schneider Disc is taken, then the following additional materials would 
+	be required.
+
+		• 2 x 6"Ø acoustic foam ⅓ spheres
+
+		• Magnetic strips, to place underneath the curtain fabric to allow easy attachment/detachment of spherical pieces.
+
+		• It must be checked that the inclusion of weak magnets will not have an effect on the electronics of the
+		microphone capsules (x-post/r/acoustics/r/watmm)
+
+
+• Main mounting bar.
+
+	• 20mmØ
+
+	• Square cross-section
+
+	• Preferably chrome-plated
+
+	• At least 500mm in length - need to check popular spacing options. 
+
+	• For distance spacing options it may be necessary to get a longer bar, or design a modulqr system in relation to bar length.
+
+	• Plastic cap-ends for tube, for aesthetic purposes and also safety regarding sharp edges.
+
+	• A method will be necessary to mark out the distances of the microphone holders from the central piece.
+
+
+
+• Additional Materials Required
+
+	• Wing nuts, for the fastening in position of central mounting piece, microphone mounting pieces. These may have to be
+	designed and constructed.

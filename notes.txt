@@ -1,0 +1,14 @@
+Yes you can make DIY ones with the pipe method. Bad because;
+•Waste of material
+•Messy construction
+•Not professional looking
+
+The fun of the design process gets lost. 3D printing techniques allow you to think about what you would like to create rather than the limitations of the tools or materials around you. It brings control over the design process back into the hands of the end consumer, not those who may be designing products for comapnies wishing to make money.
+
+Sure that products get tested a lot before release, esoecially by those who would end up using them, but naturally corners are going to get cut. Extrusion materials offer both strength and flexibilty.
+
+Designs for pencil mics are easy enough.
+
+Bit more of a challenge for larger side-address LDC models. Is it really possible to make something parametrised and universal?
+•Why do they all have to be rings?
+
